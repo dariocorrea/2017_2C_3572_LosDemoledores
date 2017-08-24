@@ -1,4 +1,4 @@
-# tgc-group
+# tgc-group - LOS DEMOLEDORES
 [![Build status](https://ci.appveyor.com/api/projects/status/uvyboubq91uhwf3v?svg=true)](https://ci.appveyor.com/project/rejurime/tgc-group)
 [![GitHub issues](https://img.shields.io/github/issues/tgc-utn/tgc-group.svg)](https://github.com/tgc-utn/tgc-group/issues)
 [![GitHub stars](https://img.shields.io/github/stars/tgc-utn/tgc-group.svg)](https://github.com/tgc-utn/tgc-group/stargazers)
