@@ -9,7 +9,7 @@ using TGC.Core.SceneLoader;
 using TGC.Core.Textures;
 using TGC.Core.Utils;
 
-namespace TGC.Group.Model
+namespace Los_Demoledores.Model
 {
     /// <summary>
     ///     Ejemplo para implementar el TP.

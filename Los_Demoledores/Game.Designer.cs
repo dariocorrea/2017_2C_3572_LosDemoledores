@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace TGC.Group {
+namespace Los_Demoledores {
     
     
     [global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]

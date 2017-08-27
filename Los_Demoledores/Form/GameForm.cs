@@ -7,9 +7,9 @@ using TGC.Core.Input;
 using TGC.Core.Shaders;
 using TGC.Core.Sound;
 using TGC.Core.Textures;
-using TGC.Group.Model;
+using Los_Demoledores.Model;
 
-namespace TGC.Group.Form
+namespace Los_Demoledores.Form
 {
     /// <summary>
     ///     GameForm es el formulario de entrada, el mismo invocara a nuestro modelo  que extiende TgcExample, e inicia el

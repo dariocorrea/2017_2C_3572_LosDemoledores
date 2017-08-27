@@ -1,4 +1,4 @@
-﻿namespace TGC.Group.Form
+﻿namespace Los_Demoledores.Form
 {
     partial class GameForm
     {

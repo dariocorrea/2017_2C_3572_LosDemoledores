@@ -1,8 +1,8 @@
 ﻿using System;
 using System.Windows.Forms;
-using TGC.Group.Form;
+using Los_Demoledores.Form;
 
-namespace TGC.Group
+namespace Los_Demoledores
 {
     internal static class Program
     {
