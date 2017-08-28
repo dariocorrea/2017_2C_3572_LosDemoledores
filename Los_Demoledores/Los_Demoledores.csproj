@@ -67,8 +67,10 @@
     </Reference>
     <Reference Include="Microsoft.VisualC" />
     <Reference Include="System" />
+    <Reference Include="System.Data" />
     <Reference Include="System.Drawing" />
     <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
     <Reference Include="TGC.Core">
       <HintPath>..\packages\TGC.Core.2.2.3\lib\net452\TGC.Core.dll</HintPath>
     </Reference>
@@ -80,16 +82,26 @@
     <Compile Include="Form\GameForm.Designer.cs">
       <DependentUpon>GameForm.cs</DependentUpon>
     </Compile>
+    <Compile Include="Form\TwistedForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\TwistedForm.Designer.cs">
+      <DependentUpon>TwistedForm.cs</DependentUpon>
+    </Compile>
     <Compile Include="Game.Designer.cs">
       <AutoGen>True</AutoGen>
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
       <DependentUpon>Game.settings</DependentUpon>
     </Compile>
     <Compile Include="Model\GameModel.cs" />
+    <Compile Include="Model\TwistedModel.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Form\GameForm.resx">
       <DependentUpon>GameForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\TwistedForm.resx">
+      <DependentUpon>TwistedForm.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>

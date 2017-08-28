@@ -37,7 +37,7 @@ namespace Los_Demoledores {
         
         [global::System.Configuration.UserScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("Grupo 99")]
+        [global::System.Configuration.DefaultSettingValueAttribute("Los Demoledores")]
         public string Name {
             get {
                 return ((string)(this["Name"]));
@@ -49,7 +49,7 @@ namespace Los_Demoledores {
         
         [global::System.Configuration.UserScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("Mi idea - Descripción de la idea")]
+        [global::System.Configuration.DefaultSettingValueAttribute("Twisted Metal – Autos Chocadores / Derby De Demolición")]
         public string Description {
             get {
                 return ((string)(this["Description"]));

@@ -6,10 +6,10 @@
       <Value Profile="(Default)">Alumnos</Value>
     </Setting>
     <Setting Name="Name" Type="System.String" Scope="User">
-      <Value Profile="(Default)">Grupo 99</Value>
+      <Value Profile="(Default)">Los Demoledores</Value>
     </Setting>
     <Setting Name="Description" Type="System.String" Scope="User">
-      <Value Profile="(Default)">Mi idea - Descripción de la idea</Value>
+      <Value Profile="(Default)">Twisted Metal – Autos Chocadores / Derby De Demolición</Value>
     </Setting>
     <Setting Name="ShadersDirectory" Type="System.String" Scope="User">
       <Value Profile="(Default)">..\..\Shaders\</Value>

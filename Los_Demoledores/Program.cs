@@ -14,7 +14,8 @@ namespace Los_Demoledores
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new GameForm());
+            //Application.Run(new GameForm());
+            Application.Run(new TwistedForm());
         }
     }
 }
